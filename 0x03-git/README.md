@@ -1,1 +1,1 @@
-*A new repo on git*
+*A new repo on git!*
